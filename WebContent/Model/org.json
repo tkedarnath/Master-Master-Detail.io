@@ -1,0 +1,27 @@
+{
+"value":{"Organizations":[{
+        "Org": "1",
+        "Desc": "Information Technology Department"
+    },
+    {
+        "Org": "2",
+        "Desc": "Supply Chain Department"       
+    },
+    {
+        "Org": "3",
+        "Desc": "Sales Department"
+    },
+    {
+        "Org": "4",
+        "Desc": "Purchase Department"
+    },
+    {
+        "Org": "5",
+        "Desc": "Accounts Payable"
+    },
+    {
+        "Org": "6",
+        "Desc": "Accounts Recievable"
+    }]
+}
+}

@@ -1,0 +1,101 @@
+{
+"value":{"SubOrgs":[
+	{
+        "Org": "1",
+        "Suborg": "1A",
+        "Desc": "IT Sales Team"
+    },
+    {
+        "Org": "1",
+        "Suborg": "1B",
+        "Desc": "IT Purchase Team"
+    },
+    {
+        "Org": "1",
+        "Suborg": "1C",
+        "Desc": "IT Accounts Team"
+    },
+    {
+        "Org": "1",
+        "Suborg": "1D",
+        "Desc": "IT Development Team"
+    },
+    {
+        "Org": "2",
+        "Suborg": "2A",
+        "Desc": "Raw Material Team1"       
+    },
+    {
+        "Org": "2",
+        "Suborg": "2B",
+        "Desc": "Raw Material Team2"       
+    },
+    {
+        "Org": "2",
+        "Suborg": "2C",
+        "Desc": "Raw Material Team3"       
+    },    
+    {
+        "Org": "3",
+       	"Suborg": "3A",
+        "Desc": "Sales Team 1"
+    },
+    {
+        "Org": "3",
+       	"Suborg": "3B",
+        "Desc": "Sales Team 2"
+    },
+    {
+        "Org": "3",
+       	"Suborg": "3C",
+        "Desc": "Sales Team 3"
+    },
+    {
+        "Org": "4",
+        "Suborg": "4A",
+        "Desc": "Purchasing Team 1"
+    },
+    {
+        "Org": "4",
+        "Suborg": "4B",
+        "Desc": "Purchasing Team 2"
+    },
+    {
+        "Org": "5",
+        "Suborg": "5A",
+        "Desc": "Accounts Payable Team 1"
+    },
+    {
+        "Org": "5",
+        "Suborg": "5B",
+        "Desc": "Accounts Payable Team 2"
+    },
+    {
+        "Org": "5",
+        "Suborg": "5C",
+        "Desc": "Accounts Payable Team 3"
+    },
+    {
+        "Org": "6",
+        "Suborg": "6A",
+        "Desc": "Accounts Recievable Team 1"
+    },
+    {
+        "Org": "6",
+        "Suborg": "6B",
+        "Desc": "Accounts Recievable Team 2"
+    },
+    {
+        "Org": "6",
+        "Suborg": "6C",
+        "Desc": "Accounts Recievable Team 3"
+    },
+    {
+        "Org": "6",
+        "Suborg": "6D",
+        "Desc": "Accounts Recievable Team 4"
+    }
+    
+    ]
+}
+}
